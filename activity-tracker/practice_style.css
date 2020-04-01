@@ -1,0 +1,20 @@
+#records {
+    max-height: 250px;
+    overflow: scroll;
+}
+
+.sketching {
+    background-color: aqua;
+    font-style: italic;
+}
+
+.painting {
+    background-color: red;
+    font-weight: bold;
+}
+
+.drawing {
+    background-color: blue;
+    text-decoration-line: underline;
+    color: white;
+}
